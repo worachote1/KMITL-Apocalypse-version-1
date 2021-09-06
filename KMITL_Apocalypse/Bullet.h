@@ -8,7 +8,7 @@ class Bullet
 private:
 	// Where is the bullet?
 	Vector2f m_Position;
-
+	 
 	// What each bullet looks like
 	RectangleShape m_BulletShape;
 

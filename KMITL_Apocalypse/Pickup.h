@@ -11,7 +11,7 @@ private:
 	const int AMMO_START_VALUE = 12;
 	const int START_WAIT_TIME = 10;
 	const int START_SECONDS_TO_LIVE = 5;
-
+	 
 	// The sprite that represents this pickup
 	Sprite m_Sprite;
 

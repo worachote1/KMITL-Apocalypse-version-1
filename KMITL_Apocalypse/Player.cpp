@@ -18,7 +18,7 @@ Player::Player()
 	
 }
 void Player::spawn(IntRect arena, Vector2f resolution, int tileSize)
-{
+{ 
 	//Place the player in the middle of the arena
 	m_Position.x = arena.width / 2;
 	m_Position.y = arena.height / 2;

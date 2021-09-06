@@ -8,7 +8,7 @@ private:
 	const float START_HEALTH = 100;
 	//where is the player
 	Vector2f m_Position;
-
+	 
 	//Of course we will need a sprite
 	Sprite m_Sprite;
 

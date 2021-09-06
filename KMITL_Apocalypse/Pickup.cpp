@@ -15,7 +15,7 @@ Pickup::Pickup(int type)
 		// How much is pickup worth
 		m_Value = HEALTH_START_VALUE;
 
-	}
+	} 
 	else
 	{
 		m_Sprite = Sprite(TextureHolder::GetTexture(

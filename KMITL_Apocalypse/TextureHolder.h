@@ -10,7 +10,7 @@ using namespace std;
 
 class TextureHolder
 {
-
+	 
 private:
 	// A map container from the STL,
 	// that holds related pairs of String and Texture

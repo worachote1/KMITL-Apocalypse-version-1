@@ -9,7 +9,7 @@
 using namespace sf;
 
 int main()
-{
+{ 
 	// Here is the instance of TextureHolder
 	TextureHolder holder;
 
